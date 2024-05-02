@@ -22,14 +22,14 @@ const Hero = () => {
             <a
               href="https://kalai.tiiny.site"
               className=" shadow-2xl bg-primary-color inline-flex items-center px-6 py-4 mt-8 mx-4 font-semibold text-white border rounded-lg transition-all duration-200 hover:scale-110"
-              role=" button"
+              
             >
               Download CV
             </a>
             <a
               href="/portfolio"
               className=" inline-flex items-center px-6 py-4 mt-8 font-semibold text-white border rounded-lg transition-all duration-200 hover:scale-110 "
-              role="button"
+              
             >
               My Projects
             </a>
